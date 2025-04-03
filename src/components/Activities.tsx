@@ -1,6 +1,6 @@
 
 import { useState } from 'react';
-import { MicrophoneIcon, Shield, Smartphone, GraduationCap, Heart } from 'lucide-react';
+import { Mic, Shield, Smartphone, GraduationCap, Heart } from 'lucide-react';
 
 type ClubType = {
   id: number;
@@ -14,7 +14,7 @@ const clubs: ClubType[] = [
     id: 1,
     name: "Media & Mass Communication",
     description: "Creating and sharing engaging content across various platforms to enhance communication skills.",
-    icon: <MicrophoneIcon className="h-8 w-8 text-portfolio-pink" />
+    icon: <Mic className="h-8 w-8 text-portfolio-pink" />
   },
   {
     id: 2,
