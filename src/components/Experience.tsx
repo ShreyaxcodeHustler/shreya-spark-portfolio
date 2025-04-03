@@ -28,7 +28,7 @@ const timelineItems: TimelineItem[] = [
     id: 2,
     title: "Java Programming Fundamentals",
     organization: "Infosys SpringBoard",
-    period: "2023",
+    period: "2024",
     description: [
       "Completed comprehensive Java programming course.",
       "Developed multiple projects demonstrating core Java concepts."
@@ -50,7 +50,7 @@ const timelineItems: TimelineItem[] = [
     id: 4,
     title: "U&I NGO Volunteer & Centre Leader",
     organization: "U&I NGO",
-    period: "2022 - 2023",
+    period: "2024 - 2025",
     description: [
       "Taught underserved kids various subjects.",
       "Managed volunteers and students for 8 months as Centre Leader.",
