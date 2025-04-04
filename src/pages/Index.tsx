@@ -11,6 +11,7 @@ import OtherSkills from "../components/OtherSkills";
 import Contact from "../components/Contact";
 import Footer from "../components/Footer";
 import ScrollToTop from "../components/ScrollToTop";
+import ChatbotBubble from "../components/ChatbotBubble";
 
 const Index = () => {
   useEffect(() => {
@@ -53,6 +54,7 @@ const Index = () => {
       <Contact />
       <Footer />
       <ScrollToTop />
+      <ChatbotBubble />
     </div>
   );
 };
